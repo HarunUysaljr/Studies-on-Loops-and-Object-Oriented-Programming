@@ -1,0 +1,8 @@
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\bin\Debug\Loops_04.exe.config
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\bin\Debug\Loops_04.exe
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\bin\Debug\Loops_04.pdb
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\obj\Debug\Loops_04.csproj.AssemblyReference.cache
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\obj\Debug\Loops_04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\obj\Debug\Loops_04.csproj.CoreCompileInputs.cache
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\obj\Debug\Loops_04.exe
+C:\Users\Harun\Desktop\BilgeAdam\Studies on Loops and Object-Oriented Programming\Studies-on-Loops-and-Object-Oriented-Programming\LoopExample\Loops_04\Loops_04\obj\Debug\Loops_04.pdb
